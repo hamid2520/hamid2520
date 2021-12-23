@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamid Purhasani</h1>
 <h3 align="center">A professional Software Engineer 🚀 having an experience of building Web and Desktop applications / Team leading</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amupxm&label=Profile%20views&color=0e75b6&style=flat" alt="amupxm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamid2520&label=Profile%20views&color=0e75b6&style=flat" alt="hamid2520" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hamidp500" target="blank"><img src="https://img.shields.io/twitter/follow/hamidp500?logo=twitter&style=for-the-badge" alt="hamidp500" /></a> </p>
 
