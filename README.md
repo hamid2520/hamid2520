@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hamidp500" target="blank"><img src="https://img.shields.io/twitter/follow/hamidp500?logo=twitter&style=for-the-badge" alt="hamidp500" /></a> </p>
 
-- 🔭 I’m currently working on **Fawan project**
+- 🔭 I’m currently working on **Fadoo project**
 
 - 🌱 I’m currently learning **Odoo .**
 
